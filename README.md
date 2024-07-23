@@ -20,8 +20,7 @@ I am a Java Backend Developer from Belarus.
 
 - 🌱 I constantly strive to improve my skills and learn new technologies.
 - ⚡ My goal is to become a proficient Software Engineer.
-- 🛠️ I have a strong background in developing scalable and robust backend systems.
-- 💬 Ask me about Java, Spring, and backend development.
+
 
 ---
 
