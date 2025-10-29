@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Java Backend Developer from Belarus.
+I am a Java Software Backend Developer.
 
 - 🌱 I constantly strive to improve my skills and learn new technologies.
 - ⚡ My goal is to become a proficient Software Engineer.
